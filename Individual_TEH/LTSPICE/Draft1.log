@@ -1,0 +1,4 @@
+Circuit: * D:\Purdue\Senior\ECE 49022\LTSPICE\Draft1.asc
+
+Fatal Error: Unknown subcircuit called in:
+   xu1 n001 0 vout opamp aol=100k gbw=10meg

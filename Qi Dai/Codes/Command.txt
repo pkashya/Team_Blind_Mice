@@ -1,0 +1,3 @@
+python -m aeneas.tools.execute_task Chapters.mp3 Chapters.txt "task_language=eng|os_task_file_format=csv|is_text_type=plain" track.csv
+
+python split.py -mp3 Chapters.mp3
